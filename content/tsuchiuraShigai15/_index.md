@@ -1,5 +1,5 @@
 ---
-description: 土浦十五用水の写真
+description: 土浦十五用水
 featured_image: ./shimohirooka_gate4.jpg
 keywords: [water canal, tsuchiura15]
 title: 土浦十五用水
