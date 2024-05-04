@@ -1,4 +1,3 @@
-name: github pages
 name: Hugo setup
 uses: peaceiris/actions-hugo@v3.0.0
             
