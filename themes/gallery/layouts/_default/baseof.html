@@ -1,12 +1,27 @@
-<!doctype html>
-{{- $theme := .Params.theme | default .Site.Params.defaultTheme }}
-<html class="{{- if (eq $theme "light") -}}light{{- else if (eq $theme "dark") }}dark{{ end }}" lang="{{- site.LanguageCode | default "en" -}}">
-  {{ partial "head.html" . }}
-  <body>
-    {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
-    {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
-  </body>
+<!--<!doctype html>
+<!{{- $theme := .Params.theme | default .Site.Params.defaultTheme }}
+<!<html class="{{- if (eq $theme "light") -}}light{{- else if (eq $theme "dark") }}dark{{ end }}" lang="{{- site.LanguageCode | default "en" -}}">
+<!  {{ partial "head.html" . }}
+<!  <body>
+<!    {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
+<!    <main>
+<!      {{ block "main" . }}{{ end }}
+<!    </main>
+<!    {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
+<!  </body>
+<!</html>
+-->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    {{ block "head" . }}{{ end }}
+</head>
+<body>
+    {{ block "main" . }}{{ end }}
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</body>
 </html>
