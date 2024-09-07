@@ -1,5 +1,0 @@
-theme = "gallery"
-baseURL = 'https://kmt.html'
-languageCode = 'en-us'
-title = '土浦用水ファンページ'
-disableKinds = ["i18n"]
