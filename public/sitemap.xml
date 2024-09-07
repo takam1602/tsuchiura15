@@ -2,66 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tsuchiurashigai15/</loc>
+    <loc>http://localhost:1313/tsuchiura15/section2/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/inpump2/</loc>
+    <loc>http://localhost:1313/onogawa/section1/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/animals/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tsuchiura15/</loc>
+    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fashion-beauty/</loc>
+    <loc>http://localhost:1313/onogawa/</loc>
+    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nature/</loc>
+    <loc>http://localhost:1313/tsuchiura15/section1/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
-    <lastmod>2024-05-04T17:09:04+09:00</lastmod>
+    <loc>http://localhost:1313/onogawa/section2/</loc>
+    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-=======
->>>>>>> ea0184a1afc4a9b9f589ecd33c306e65203b0434
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-05-04T17:09:04+09:00</lastmod>
+    <loc>http://localhost:1313/onogawa/section1/suiro/</loc>
+    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/onogawa/section2/suiro/</loc>
+    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tsuchiura15/section2/suiro/</loc>
+    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-04T17:09:04+09:00</lastmod>
-  </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/inpump2/suiro/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tsuchiurashigai15/suiro/</loc>
-    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/suiro/</loc>
-    <lastmod>2024-02-18T14:12:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/animals/cats/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/animals/dogs/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-=======
-    <loc>http://localhost:1313/tsuchiurashigai15/suiro/</loc>
-    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
-  </url><url>
->>>>>>> ea0184a1afc4a9b9f589ecd33c306e65203b0434
-    <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/imprint/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-=======
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/imprint/</loc>
-  </url><url>
-    <loc>http://localhost:1313/map/</loc>
->>>>>>> ea0184a1afc4a9b9f589ecd33c306e65203b0434
   </url>
 </urlset>
