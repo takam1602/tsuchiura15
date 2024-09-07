@@ -1,7 +1,7 @@
 ---
-description: つくば市の農業用水路
-#lastmod: 2023-07-05
-title: つくば市の農業用水路
+description: 土浦市外十五ヶ町村土地改良区の農業用水路
+#lastmod: 2024-09-07
+title: 土浦市外十五ヶ町村土地改良区の農業用水路
 featured_image: ./shimohirooka_gate4.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
