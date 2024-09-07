@@ -1,10 +1,10 @@
 ---
-title: Imprint
+title: このサイトについて
 rss_ignore: true
 layout: page
 menu:
   footer:
     weight: 1
 ---
-
-(Put your imprint here)
+サイトの管理人: 農業工学施設散策が趣味な人 ※土地改良区様は全く関係ありません．
+サイトの目的: 都市化に伴いサイフォン化，地中化されつつも重要な役割を担っている農業用水路の存在を記録するため．

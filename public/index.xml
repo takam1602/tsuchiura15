@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>つくば市の農業用水路 on 土浦用水ファンページ</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in つくば市の農業用水路 on 土浦用水ファンページ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>土浦十五用水</title>
+      <link>http://localhost:1313/tsuchiurashigai15/suiro/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tsuchiurashigai15/suiro/</guid><media:content url="http://localhost:1313/tsuchiurashigai15/suiro/afterFence_hu9c10254d941380c952832092b6a6dc5a_2701843_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/tsuchiurashigai15/suiro/afterFence_hu9c10254d941380c952832092b6a6dc5a_2701843_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>土浦用水のページ</title>
+      <link>http://localhost:1313/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/</guid><media:content url="http://localhost:1313/map/images/IMG_1192_hudd0b924091f60ef8cafd0c83de614cd6_3145604_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/map/images/IMG_1192_hudd0b924091f60ef8cafd0c83de614cd6_3145604_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
